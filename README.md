@@ -1,4 +1,4 @@
-# Movie Ticketing System
+# Cinema Ticketing System
 
 ## Overview
 
